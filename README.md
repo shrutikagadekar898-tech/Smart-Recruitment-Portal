@@ -81,34 +81,6 @@ Smart Recruitment Portal is a Java-based recruitment management system that conn
 - Resume Skill Analysis
 - Job Recommendation System
 
-
-## Screenshots
-
-### Login Page
-![Login Page](images/login.png)
-
-### Register Page
-![Register Page](images/register.png)
-
-### Candidate Dashboard
-![Candidate Dashboard](images/candidate-dash.png)
-
-### Job Search & Filter
-![Job Search](images/job-search.png)
-
-### Company Dashboard
-![Company Dashboard](images/company-dash.png)
-
-### Generater Offer
-![Generate Offer](images/offer.png)
-
-### Post Job
-![Post Job](images/new-job.png)
-### Interview Scheduling
-![Interview Scheduling](images/interview-scheduling.png)
-
-### Admin Dashboard
-![Admin Dashboard](images/admin-dashb.png)
 ## Author
 
 Shrutika Gadekar
